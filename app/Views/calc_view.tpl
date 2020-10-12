@@ -6,7 +6,6 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Kalkulator</title>
-	<title>Kalkulator-Witamy</title>
 	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
         <link rel="stylesheet" href="{$app_url}/css/default.css">
 </head>
