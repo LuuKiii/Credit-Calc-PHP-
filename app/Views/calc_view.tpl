@@ -17,7 +17,7 @@
     
 <form action="{$conf->action_root}calculate" method="post" class="pure-form pure-form-stacked">
 	<fieldset>
-		<label for="id_kwota">Kwota: </label>
+		<label for="id_kwota">Kwota : </label>
                 <input id="id_kwota" type="text" placeholder="Kwota" name="kwota" value="{$form->kwota}" />
 
 		<label for="id_proc">z oprocentowaniem </label>
